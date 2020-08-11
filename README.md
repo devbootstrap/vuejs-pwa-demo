@@ -4,7 +4,7 @@ Basic app that shows how to setup and install a PWA app on a Macbook and iPhone 
 
 ## Documentation
 
-Please refer to this [document](./Technology Architecture PWA Serverless Notes.pdf) here. This explains all about the process to create this app as well as creating the CA Root certificate, installing it on a Macbook and iPhone, creating a Domain SSL Certificate from that Root certificate using the [createDomainCertfromCA.sh](./createDomainCertfromCA.sh) script and serving the app via HTTPS on your Macbook and loading / installing the PWA on your iPhone using a custom local devevelopment domain.
+Please refer to this [document](./Technology\ Architecture\ PWA\ Serverless\ Notes.pdf) here. This explains all about the process to create this app as well as creating the CA Root certificate, installing it on a Macbook and iPhone, creating a Domain SSL Certificate from that Root certificate using the [createDomainCertfromCA.sh](./createDomainCertfromCA.sh) script and serving the app via HTTPS on your Macbook and loading / installing the PWA on your iPhone using a custom local devevelopment domain.
 
 ## Project setup
 ```
